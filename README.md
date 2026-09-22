@@ -4,7 +4,6 @@
 소개 페이지를 관리합니다. 조직 구성원에게만 보이는 내부 안내는 `.github-private` 저장소에 있습니다.
 
 - `profile/README.md`: 공개 조직 Overview
-- `profile/assets/`: Overview에 쓰는 이미지
 
 제품 코드와 운영 설정은 `FE`, `BE`, `infra` 저장소에 있고 모두 비공개입니다. 이 저장소에는
 비공개 저장소로 가는 링크, API 명세, 내부 운영 절차, 구현 문서를 두지 않습니다. 공개 페이지에서
